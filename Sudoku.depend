@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504970465 source:e:\folder\codes\2017zd\sudoku\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
